@@ -1,0 +1,27 @@
+body{background-image: url(https://i0.wp.com/attracttour.com/wp-content/uploads/2013/02/Bantayan04.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: cursive;
+    font-size: medium;
+    font-style: italic;
+    color: ivory;
+    padding-right: 80px;
+    padding-left: 30px;
+      }
+
+h1 {text-align:center;
+    color:black;
+    font-weight: bold;
+    text-transform:uppercase;}
+
+h2 {text-align:center;
+    color:black;}
+
+h3 {color:gray;}
+
+p{text-align: justify;}
+
+image{border-image: 5px;
+        border-width: medium;
+        border-color: indigo;}
+
